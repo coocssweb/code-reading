@@ -1,5 +1,5 @@
-<h1 align="center">mpa-typescript</h1>
-react-hook-form，一个React Hooks 表单验证。
+<h1 align="center">react-hook-form</h1>
+一个React Hooks 表单验证。
 https://github.com/react-hook-form/react-hook-form
 
 <h2 align="center">参数</h2>
@@ -19,6 +19,7 @@ https://github.com/react-hook-form/react-hook-form
     context,
     defaultValues,
     shouldFocusError,
+    // 职责：当书记
     shouldUnregister,
     criteriaMode,
 }
